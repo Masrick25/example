@@ -1,0 +1,2 @@
+Dalam file ini saya hendak mempelajari bagaimana menyimpan file secara online
+- create new file.
